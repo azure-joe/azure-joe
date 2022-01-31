@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Azure and IoT
 - 💞️ I’m looking to collaborate on anything facsinating
-- 📫 How to reach me frixon@gmail.com
+- 📫 How to reach me joefrixon@outlook.com
 
 <!---
 azure-joe/azure-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
